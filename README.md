@@ -3,5 +3,7 @@ This repo contains all the example and demos of different machine learning frame
 
 
 ## 1 Tensorflor Demo
-    1.  Basic Neural Network using tensorflow
+    1.  Basic Neural Network using tensorflow (tensorflow-demo)
+    2.  MNIST Classification using Tensorflow
+    
     
